@@ -1,1 +1,1 @@
-# alfred-easyredmine
+# alfred-easyredminetracker
